@@ -7,6 +7,8 @@
 :zap: Leading engineering teams to build awesome products    
 :wrench: Current Tools: Linux Server, MySQL, pSQL 
 
+[![Roshan's github stats](https://github-readme-stats.vercel.app/api?username=rthway)](https://github.com/rthway/github-readme-stats)
+
 ### Find me on:
 
 <a href="https://www.linkedin.com/in/roshan-kumar-thapa-16aa5b107" target="_blank"><img src="https://raw.githubusercontent.com/rthway/rthway/master/linkedin.png" alt="Twitter" width="30"></a>
