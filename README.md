@@ -7,7 +7,7 @@
 :zap: Working with Devloper teams to build awesome products NepalEHR  
 :wrench: Current Tools: Git & GitHub, Jenkins,Linux, Ansible Docker, Kubernetes, MySQL, pSQL 
 
-<br>
+<br><br><br>
 ### Find me on:
 
 <a href="https://www.linkedin.com/in/roshan-kumar-thapa-16aa5b107" target="_blank"><img src="https://raw.githubusercontent.com/rthway/rthway/master/linkedin.png" alt="Twitter" width="30"></a>
