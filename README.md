@@ -4,8 +4,8 @@
 
 :computer:  I'm a EHR Implementation Officer   
 :briefcase: Currently working at [@NepalEHR](https://github.com/nepalehr)      
-:zap: Leading engineering teams to build awesome products    
-:wrench: Current Tools: Linux Server, MySQL, pSQL 
+:zap: Working with Devloper teams to build awesome products NepalEHR  
+:wrench: Current Tools: Git & GitHub, Jenkins,Linux, Ansible Docker, Kubernetes, MySQL, pSQL 
 
 <br><br><br>
 ### Stats:
